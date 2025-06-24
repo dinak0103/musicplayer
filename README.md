@@ -4,12 +4,6 @@ A simple and interactive web-based music player built with **HTML**, **CSS**, an
 
 [🔗 Live Demo](https://dinak0103.github.io/musicplayer/)
 
-## 📸 Screenshots
-
-| Interface | Controls | Playback |
-|----------|----------|----------|
-| ![Screenshot 1](./screenshots/Screenshot-1.png) | ![Screenshot 2](./screenshots/Screenshot-2.png) | ![Screenshot 3](./screenshots/Screenshot-3.png) |
-
 ## 🚀 Features
 
 - 🎧 Play, pause, next, and previous song controls
